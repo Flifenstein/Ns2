@@ -1,0 +1,4 @@
+14:58:22 [Skill] INFO  Skill:138 - Connecting to Furhat server on 0.0.0.0:1932
+14:58:22 [Ns2Skill] INFO  Ns2Skill:165 - Starting skill
+14:58:26 [Ns2Skill] WARN  implementations: 39 - Intent Classifier not yet initialized for speech recognition phrases
+14:59:12 [Broker Client] ERROR BrokerClient:152 - Unexpected disconnect from broker

@@ -1,0 +1,4 @@
+15:12:44 [Skill] INFO  Skill:138 - Connecting to Furhat server on 130.89.171.109:1932
+15:12:44 [Ns2Skill] INFO  Ns2Skill:165 - Starting skill
+15:12:49 [pool-2-thread-1] ERROR IdfMultiIntentClassifier:249 - Could not find class for entity @> in Positive
+15:12:50 [pool-2-thread-1] ERROR IdfMultiIntentClassifier:249 - Could not find class for entity @} in Positive

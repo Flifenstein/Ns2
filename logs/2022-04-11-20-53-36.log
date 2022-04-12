@@ -1,0 +1,4 @@
+20:53:36 [Skill] INFO  Skill:138 - Connecting to Furhat server on 130.89.171.109:1932
+20:53:37 [Ns2Skill] INFO  Ns2Skill:165 - Starting skill
+20:53:42 [Ns2Skill] WARN  implementations: 39 - Intent Classifier not yet initialized for speech recognition phrases
+20:55:13 [EventSystem] INFO  Ns2Skill:183 - Terminating skill
